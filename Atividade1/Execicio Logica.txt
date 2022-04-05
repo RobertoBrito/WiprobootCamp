@@ -1,0 +1,72 @@
+atividade 1
+    1- pegar escada
+    2- posicionar escada para subir
+    3- pegar lampada nova
+    3- subir na escada
+    4- desenroscar lampada queimada
+    5- enroscar lampada nova
+    6- descer da escada
+atividade 2
+    1- pegue a coleira
+    2- coloque a coleira no animal
+    3- abra a porta
+    4- saia pela porta
+    5- abra o portao
+    6- saia pelo portao
+    
+atividade 3
+    1- ligue o pc na tomada
+    2- ligue o pc no power
+    3- informe a senha do SO
+    
+atividade 4
+    1- pegue a bucha
+    2- pegue o detergente
+    3- coloque um pouco de detergente na bucha
+    4- pegue o copo
+    5- ligue a torneira
+    6- molhe o copo
+    7- esfregue o copo com a bucha
+    8- enchague o copo
+    
+atividade 5
+    1- pegue o celular
+    2- abra o aplicativo da rede social
+    3- informe usuario e senha do aplicativo
+    4- clique no botão postar foto
+    5- selecione a foto na galeria
+    6- informe uma legenda para a foto
+    7- clique em postar
+atividade 6
+    a = 20 == 20
+    b = a+1 == 21
+    a = b+2 == 23
+    b = a+3 == 26
+    escreva a (23)
+    a = b+4 == 30
+    escreva a,b (30, 26)
+    
+    x = 3 == 3
+    y = 2=1 == 3
+    z =x+y-1 == 5
+    escreva z(5)
+    x = 5 == 5
+    y = x+3 == 8
+    escreva x,y(5,8)
+    
+atividade 7
+    triangulo escaleno
+    triangulo isosceles
+    não é possivel formar um triangulo
+    triangulo equilatero
+    
+atividade 8
+    - unico erro que encontrei foi na pergunta joão precisa descobrir de um determinado.
+    - a representação do inicio do fluxograma esta como se fosse um processo e não de inicio.
+    
+atividade 9
+    A = ABRIR O FORNO
+    B = FORNO ESTÁ ACESO?
+    C = ACENDER FORNO
+    D = COLOCAR O PÃO
+    E = ASSAR PÃO
