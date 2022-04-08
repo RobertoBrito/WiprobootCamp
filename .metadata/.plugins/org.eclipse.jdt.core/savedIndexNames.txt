@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\ROBERTO\Desktop\WiprobootCamp\workspace-curso-java\.metadata\.plugins\org.eclipse.jdt.core
+2391407170.index
+1865797976.index
+2525604767.index
